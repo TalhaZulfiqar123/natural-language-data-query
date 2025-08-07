@@ -77,8 +77,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate</pre>
 
   <h2>👨‍💻 Author</h2>
   <p><strong>Talha Zulfiqar</strong><br>
-  <a href="https://www.linkedin.com/in/talha-zulfiqar/">LinkedIn</a> |
-  <a href="https://github.com/talhazulfiqar">GitHub</a></p>
+  <a href="https://www.linkedin.com/in/talhazulfiqar/">LinkedIn</a>
 
   <p>✨ Crafted with precision by <strong>Talha Zulfiqar</strong></p>
 
