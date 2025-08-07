@@ -20,12 +20,6 @@
     <li>UI built with Streamlit</li>
   </ul>
 
-  <h2>📸 Screenshots</h2>
-  <p>EDA Section:</p>
-  <img src="https://via.placeholder.com/400x300?text=EDA+View" alt="EDA Screenshot">
-  <p>Chat Section:</p>
-  <img src="https://via.placeholder.com/400x300?text=Chat+View" alt="Chat Screenshot">
-
   <h2>🛠️ Tech Stack</h2>
   <ul>
     <li><strong>Frontend:</strong> Streamlit</li>
